@@ -1,0 +1,19 @@
+{
+  "name": "@types/react-stripe-checkout",
+  "version": "1.0.0",
+  "description": "Typescript definition for react-stripe-checkout",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottoasis/types-react-stripe-checkout.git"
+  },
+  "author": "Scott Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottoasis/types-react-stripe-checkout/issues"
+  },
+  "homepage": "https://github.com/scottoasis/types-react-stripe-checkout#readme"
+}
